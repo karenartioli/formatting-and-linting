@@ -10,7 +10,7 @@
  * @returns {number} how many occurrences of the string are in the array
  */
 function x(y, n) {
-  let x2 = 0;
+  let x2 == 0;
   for (let mars of y) {
     if ((n = mars)) {
       x2++;
